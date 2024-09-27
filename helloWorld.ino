@@ -1,5 +1,5 @@
 void setup() {
-  pinMode(13, OUTPUT); // OUTPUT => indica que o arduino enviará informações para o componente na saída 13
+  pinMode(13, OUTPUT);    // OUTPUT => indica que o arduino enviará informações para o componente na saída 13
 }
 
 void loop() {
