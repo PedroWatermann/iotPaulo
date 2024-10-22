@@ -26,3 +26,7 @@ Aulas de internet das coisas com o professor Paulo no Senai
 [logicaOU](https://www.tinkercad.com/things/dRIADAoEXqZ-logica-ou)
 
 [logicaE](https://www.tinkercad.com/things/35fvWr40Z9i-logica-e)
+
+[lacoWhile/For](https://www.tinkercad.com/things/k6g8OmTRBnp-laco-whilefor)
+
+[switchCase](https://www.tinkercad.com/things/j9hl8P8cQrw-switch-case)
