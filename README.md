@@ -21,6 +21,8 @@ Aulas de internet das coisas com o professor Paulo no Senai
 
 [ex013](https://www.tinkercad.com/things/4ZKXIcZlTaU-ex013)
 
+[ex014](https://www.tinkercad.com/things/4Nj2kXSmJAB-ex014)
+
 [monitorSerial](https://www.tinkercad.com/things/fHDqlxekYPD-monitorserial)
 
 [logicaOU](https://www.tinkercad.com/things/dRIADAoEXqZ-logica-ou)
@@ -30,3 +32,9 @@ Aulas de internet das coisas com o professor Paulo no Senai
 [lacoWhile/For](https://www.tinkercad.com/things/k6g8OmTRBnp-laco-whilefor)
 
 [switchCase](https://www.tinkercad.com/things/j9hl8P8cQrw-switch-case)
+
+[leituraEntradaAnalogica](https://www.tinkercad.com/things/cdXTA4WaUDB-leitura-de-entrada-analogica)
+
+[multimetro](https://www.tinkercad.com/things/2Z6wyspZ98N-multimetro)
+
+[pwm](https://www.tinkercad.com/things/iBul4g5bzij-pwm)
