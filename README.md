@@ -23,6 +23,10 @@ Aulas de internet das coisas com o professor Paulo no Senai
 
 [ex014](https://www.tinkercad.com/things/4Nj2kXSmJAB-ex014)
 
+[ex015](https://www.tinkercad.com/things/8bNndjC2sAd-ex015)
+
+[ex016](https://wokwi.com/projects/413217091244371969)
+
 [monitorSerial](https://www.tinkercad.com/things/fHDqlxekYPD-monitorserial)
 
 [logicaOU](https://www.tinkercad.com/things/dRIADAoEXqZ-logica-ou)
@@ -38,3 +42,5 @@ Aulas de internet das coisas com o professor Paulo no Senai
 [multimetro](https://www.tinkercad.com/things/2Z6wyspZ98N-multimetro)
 
 [pwm](https://www.tinkercad.com/things/iBul4g5bzij-pwm)
+
+[sensorUltrassonico](https://www.tinkercad.com/things/lqMHLgNwTtw-sensor-ultrassonico)
